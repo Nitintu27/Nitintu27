@@ -1,8 +1,8 @@
-<h2 align="center">Hello 👋! My name is Rahul</h2>
+<h2 align="center">Hello 👋! My name is Nitin</h2>
 
 ###
 
-<p align="center">A Passionate React Js Developer...</p>
+<p align="center">A Passionate Full-stack Developer...</p>
 
 ###
 
